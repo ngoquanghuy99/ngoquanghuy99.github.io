@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ngo Quang Huy"
-  avatar           : "profile.png"
+  avatar           : "NgoQuangHuy.JPG"
   bio              : "AI Research Engineer, NLP Researcher. I'm interested in Computational Linguistics"
-  location         : "Location"
+  location         : "Hanoi, Vietnam"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "ngoquanghuy99"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
