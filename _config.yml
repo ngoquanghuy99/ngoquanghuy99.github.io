@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ngo Huy"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Ngo Huy"
+name                     : &name "Home"
 description              : &description "personal description"
 url                      : https://ngoquanghuy99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ngo Quang Huy"
   avatar           : "NgoQuangHuy.JPG"
-  bio              : "AI Research Engineer, NLP Researcher. I'm interested in Computational Linguistics"
+  bio              : "AI Research Engineer, NLP Researcher"
   location         : "Hanoi, Vietnam"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=j4eXAZ8AAAAJ"
   email            : "ngoquanghuy1999lp@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
