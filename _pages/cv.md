@@ -11,3 +11,4 @@ redirect_from:
 
 You can download a PDF copy of my CV [here](/files/Ngo-Quang-Huy_Resume.pdf).
 
+<embed src="{{ ngoquanghuy.github.io }}/files/Ngo-Quang-Huy_Resume.pdf" width="600" height="700" type='application/pdf'>
