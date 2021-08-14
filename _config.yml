@@ -85,7 +85,7 @@ author:
   bio              : "AI Research Engineer, NLP Researcher. I'm interested in Computational Linguistics"
   location         : "Hanoi, Vietnam"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "ngoquanghuy1999lp@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
