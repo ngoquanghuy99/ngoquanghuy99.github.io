@@ -21,4 +21,4 @@ author_profile: true
 
 **Publications**:
 
-1. Ngo Quang Huy, Tu Minh Phuong, Ngo Xuan Bach. Autoencoding Language Model Based Ensemble Learning for Commonsense Validation and Explanation.  
+1. **Ngo Quang Huy**, Tu Minh Phuong, Ngo Xuan Bach. Autoencoding Language Model Based Ensemble Learning for Commonsense Validation and Explanation.  
