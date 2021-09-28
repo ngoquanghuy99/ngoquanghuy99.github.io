@@ -23,4 +23,5 @@ Email: ngoquanghuy1999lp{AT}gmail.com
 News & Updates
 =====
 ## 2021
+- 18/09/2021: My paper has been accepted at KSE 2021.
 - 05/09/2021: I won the First prize in Task 2: Legal Textual Entailment at the ALQAC workshop of KSE 2021.
