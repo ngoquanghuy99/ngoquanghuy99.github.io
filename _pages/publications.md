@@ -17,7 +17,7 @@ author_profile: true
 
 **Fields:** Natural Language Processing, Computational Linguistics, Deep Learning
 
-**Topics**: Knowledge Reasoning, Phonetics
+**Topics**: Knowledge Reasoning, Language Modeling, Phonetics
 
 **Publications**:
 
