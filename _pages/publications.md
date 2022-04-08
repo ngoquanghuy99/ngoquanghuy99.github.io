@@ -17,9 +17,9 @@ author_profile: true
 
 **Fields:** Natural Language Processing, Computational Linguistics, Deep Learning
 
-**Topics**: Question Answering, Natural Language Understanding, Natural Language Generation
+**Topics**: Knowledge Reasoning, Phonetics
 
 **Publications**:
 
-1. **Ngo Quang Huy**, Nguyen Duc Manh Tuan, Nguyen Anh Duong and Pham Quang Nhat Minh. **2021**. AimeLaw at ALQAC 2021: Enriching Neural Network Models with Legal-Domain Knowledge. In *Proceedings of the 13th IEEE International Conference on Knowledge and Systems Engineering* (KSE), to appear.
-2. **Ngo Quang Huy**, Tu Minh Phuong and Ngo Xuan Bach. **2021**. Autoencoding Language Model Based Ensemble Learning for Commonsense Validation and Explanation.  
+1. **Ngo Quang Huy**, Tu Minh Phuong and Ngo Xuan Bach. **2021**. Autoencoding Language Model Based Ensemble Learning for Commonsense Validation and Explanation. [paper](https://arxiv.org/abs/2204.03324)
+2. **Ngo Quang Huy**, Nguyen Duc Manh Tuan, Nguyen Anh Duong and Pham Quang Nhat Minh. **2021**. AimeLaw at ALQAC 2021: Enriching Neural Network Models with Legal-Domain Knowledge. In *Proceedings of the 13th IEEE International Conference on Knowledge and Systems Engineering* (KSE), [paper](https://ieeexplore.ieee.org/document/9648636/authors#authors).
