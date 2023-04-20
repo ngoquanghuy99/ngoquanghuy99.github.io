@@ -30,4 +30,4 @@ News & Updates
 - 18/09/2021: My [paper](https://ieeexplore.ieee.org/document/9648636) has been accepted at KSE 2021.
 - 05/09/2021: I won the [First prize](/files/ALQAC2021_AimeLaw.pdf) in Task 2: Legal Textual Entailment at the ALQAC workshop of KSE 2021.
 
-Last updated: Jan 2022
+_Last updated: Jan 2022_
