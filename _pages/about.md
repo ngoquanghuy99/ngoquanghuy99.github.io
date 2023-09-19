@@ -22,12 +22,15 @@ Email: ngoquanghuy1999lp{AT}gmail.com
 
 News & Updates
 =====
+## 2023
+- 08/09/2023: My paper has been accepted at PACLIC 2023 (Hong Kong).
+
 ## 2022
 - 12/01/2022: I finished my thesis defense with a score of 9.5/10
 
 ## 2021
 - 12/11/2021: I have been awarded the [Best Presentation Award](/files/KSE2021_Best_Presentation_13.pdf) at KSE 2021
-- 18/09/2021: My [paper](https://ieeexplore.ieee.org/document/9648636) has been accepted at KSE 2021.
+- 18/09/2021: My [paper](https://ieeexplore.ieee.org/document/9648636) has been accepted at KSE 2021 (Bangkok, Thailand). 
 - 05/09/2021: I won the [First prize](/files/ALQAC2021_AimeLaw.pdf) in Task 2: Legal Textual Entailment at the ALQAC workshop of KSE 2021.
 
-_Last updated: Jan 2022_
+_Last updated: Sep 2023_
