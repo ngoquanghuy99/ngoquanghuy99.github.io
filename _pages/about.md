@@ -12,7 +12,7 @@ Hello there, I'm **Huy Ngo**
 
 I completed my thesis defense in Jan, 2022 at [Posts and Telecommunications Institute of Technology](https://portal.ptit.edu.vn/) (PTIT), Hanoi, Vietnam
 
-Currently, I am an AI Research Engineer at [Aimesoft](https://www.aimesoft.com/). I am also working with Assoc. Prof. [Ngo Xuan Bach](https://sites.google.com/site/nxbachcs/) as a Research Assistant in NLP group at PTIT.
+Currently, I am a Senior NLP Researcher at [MoMo](https://momo.vn/). I had been working with Assoc. Prof. [Ngo Xuan Bach](https://sites.google.com/site/nxbachcs/) as a Research Assistant in Machine Learning & Applications Lab ([MLALab](https://mlalab.ptit.edu.vn/))  Lab at PTIT.
 
 **Research interests**: Natural Language Processing, Computational Linguistics, Deep Learning
 
@@ -23,7 +23,8 @@ Email: ngoquanghuy1999lp{AT}gmail.com
 News & Updates
 =====
 ## 2023
-- 08/09/2023: My paper has been accepted at PACLIC 2023 (Hong Kong).
+- 23/10/2023: We announced [LHTM-OPT](https://alt.ai/news_en/alt-announces-lhtm-opt-a-lightweight-high-accuracy-large-language-modelthe-model-achieved-the-highest-score-in-the-rakuda-benchmark-for-japanese-llms-making-it-the-most-accurate-commercial-private/), state-of-the-art LLM in Japanese (I am the creator).
+- 08/09/2023: Our [paper](https://aclanthology.org/2023.paclic-1.67/) has been accepted at PACLIC 2023 (Hong Kong).
 
 ## 2022
 - 12/01/2022: I finished my thesis defense with a score of 9.5/10
