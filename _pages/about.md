@@ -26,7 +26,7 @@ News & Updates
 - 26/02/2025: I gave a talk at the [workshop on AI Ethics in Action](https://www.facebook.com/share/p/18rXmKgYdL/) at the [GDGoC Hackathon Vietnam 2025](https://gdg.community.dev/gdg-on-campus-hanoi-university-of-science-technology-hanoi-vietnam/) [[slides](https://docs.google.com/presentation/d/1crw76KZrzS01gOH5TiQ2OWcs0GAp3OcX_tY7AiaJoqg/edit?usp=sharing)]
 
 ## 2023
-- 23/10/2023: We announced [LHTM-OPT](https://alt.ai/news_en/alt-announces-lhtm-opt-a-lightweight-high-accuracy-large-language-modelthe-model-achieved-the-highest-score-in-the-rakuda-benchmark-for-japanese-llms-making-it-the-most-accurate-commercial-private/), state-of-the-art LLM in Japanese (I am the creator).
+- 23/10/2023: We announced [LHTM-OPT](https://alt.ai/en/news/5753/), state-of-the-art LLM in Japanese (I am the creator).
 - 08/09/2023: Our [paper](https://aclanthology.org/2023.paclic-1.67/) has been accepted at PACLIC 2023 (Hong Kong).
 
 ## 2022
@@ -37,4 +37,4 @@ News & Updates
 - 18/09/2021: My [paper](https://ieeexplore.ieee.org/document/9648636) has been accepted at KSE 2021 (Bangkok, Thailand). 
 - 05/09/2021: I won the [First prize](/files/ALQAC2021_AimeLaw.pdf) in Task 2: Legal Textual Entailment at the ALQAC workshop of KSE 2021.
 
-_Last updated: Sep 2023_
+_Last updated: Feb 2025_
