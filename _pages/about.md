@@ -8,25 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello there, I'm **Huy Ngo**
+Currently, I am a Senior AI Researcher at [MoMo](https://momo.vn/). I had been working with Assoc. Prof. [Ngo Xuan Bach](https://sites.google.com/site/nxbachcs/) as a Research Assistant in Machine Learning & Applications Lab ([MLALab](https://mlalab.ptit.edu.vn/))  Lab at PTIT.
 
-I completed my thesis defense in Jan, 2022 at [Posts and Telecommunications Institute of Technology](https://portal.ptit.edu.vn/) (PTIT), Hanoi, Vietnam
-
-Currently, I am a Senior NLP Researcher at [MoMo](https://momo.vn/). I had been working with Assoc. Prof. [Ngo Xuan Bach](https://sites.google.com/site/nxbachcs/) as a Research Assistant in Machine Learning & Applications Lab ([MLALab](https://mlalab.ptit.edu.vn/))  Lab at PTIT.
-
-**Research interests**: Natural Language Processing, Computational Linguistics, Deep Learning
-
-**Contact**
-
-Email: ngoquanghuy1999lp{AT}gmail.com
-
-News & Updates
+News
 =====
 ## 2025
 - 26/02/2025: I gave a talk at the [workshop on AI Ethics in Action](https://www.facebook.com/share/p/18rXmKgYdL/) at the [GDGoC Hackathon Vietnam 2025](https://gdg.community.dev/gdg-on-campus-hanoi-university-of-science-technology-hanoi-vietnam/) [[slides](https://docs.google.com/presentation/d/1crw76KZrzS01gOH5TiQ2OWcs0GAp3OcX_tY7AiaJoqg/edit?usp=sharing)]
 
 ## 2023
-- 23/10/2023: We announced [LHTM-OPT](https://alt.ai/en/news/5753/), state-of-the-art LLM in Japanese (I am the creator).
+- 23/10/2023: We announced [LHTM-OPT](https://alt.ai/en/news/5753/), state-of-the-art LLM in Japanese.
 - 08/09/2023: Our [paper](https://aclanthology.org/2023.paclic-1.67/) has been accepted at PACLIC 2023 (Hong Kong).
 
 ## 2022
