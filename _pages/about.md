@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Senior AI Researcher at [MoMo](https://momo.vn/). I had been working with Assoc. Prof. [Ngo Xuan Bach](https://sites.google.com/site/nxbachcs/) as a Research Assistant in Machine Learning & Applications Lab ([MLALab](https://mlalab.ptit.edu.vn/))  Lab at PTIT.
+Currently, I am the Co-founder & CEO of SpaceAI, and also a Senior AI Researcher at [MoMo](https://momo.vn/). I had been working with Assoc. Prof. [Ngo Xuan Bach](https://sites.google.com/site/nxbachcs/) as a Research Assistant in Machine Learning & Applications Lab ([MLALab](https://mlalab.ptit.edu.vn/))  Lab at PTIT.
 
 News
 =====
