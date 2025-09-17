@@ -16,7 +16,7 @@ author_profile: true
   - Date: February 26, 2025
   - Workshop on AI Ethics in Action
   - [[Slides](https://docs.google.com/presentation/d/1crw76KZrzS01gOH5TiQ2OWcs0GAp3OcX_tY7AiaJoqg/edit?usp=sharing)]
-  - [[Event Link](https://www.facebook.com/share/p/18rXmKgYdL/)]
+  - [[Event Link](https://www.facebook.com/share/p/1BVKW3smS5/)]
 
 ### 2021
 - **AimeLaw at ALQAC 2021** at KSE 2021 Conference
